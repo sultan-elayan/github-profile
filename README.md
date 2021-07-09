@@ -10,9 +10,8 @@
 
 I'm sultan elayan and i'm student at ASAC These days I am completing my education in a comprehensive course in the field of software development, as this course qualified me to be full stack developer , I am fluent in writing in three programming languages, JAVASCRIPT and HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backend and React for the Frontend I am still developing my skills in this field, taking advantage of my previous experience as a engineer , where I was programming the Arduino microcontroller, which depends on the C++ programming language.
 <details>
+    <hr>
 <summary>Projects</summary>
-  
-  <hr>
   
   <!---
   | Command | Description |
