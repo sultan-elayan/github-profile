@@ -12,6 +12,8 @@ I'm sultan elayan and i'm student at ASAC These days I am completing my educatio
 <details>
 <summary>Projects</summary>
   
+  <hr>
+  
   <!---
   | Command | Description |
 | --- | --- |
