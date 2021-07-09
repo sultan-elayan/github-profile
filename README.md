@@ -5,7 +5,7 @@
   
 <a href="https://www.linkedin.com/in/sultan-elayan-77702591/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
 <a href="https://twitter.com/SultanOlian" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
-
+ <hr>
 </p>
 
 I'm sultan elayan and i'm student at ASAC These days I am completing my education in a comprehensive course in the field of software development, as this course qualified me to be full stack developer , I am fluent in writing in three programming languages, JAVASCRIPT and HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backend and React for the Frontend I am still developing my skills in this field, taking advantage of my previous experience as a engineer , where I was programming the Arduino microcontroller, which depends on the C++ programming language.
