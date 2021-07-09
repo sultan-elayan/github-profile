@@ -43,6 +43,7 @@ I'm sultan elayan and i'm student at ASAC These days I am completing my educatio
 
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultan-elayan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultan-elayan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
