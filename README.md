@@ -28,17 +28,13 @@ HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backen
   --->
   
  Project | Tags 
-    -----------|-----
-| Luxura — Website | https://gryffindor-team.github.io/Luxura/ |
-|Cube store — Web App | https://cube-store-401.netlify.app/ |
-| MOVIEHOLIC -Web App | https://agitated-ptolemy-e377af.netlify.app/ |
+   
   
-  No. | PAGE NAME | PAGE FILES
+  No. | Project | Tags
 ----|-----------|-----
-1|Reading-Notes|[LAB-02](LAB-02.md)
-2|How and Why to Become a Programmer|[read01](read01.md)
-3|what is Git?|[Read02](Read02.md)
-4|HTML & CSS|[read03](read03.md)
+1| Luxura — Website|[Luxura]( https://gryffindor-team.github.io/Luxura/)
+2|Cube store — Web App|[Cube](https://cube-store-401.netlify.app/ )
+3|MOVIEHOLIC -Web App|[MOVIEHOLIC]( https://agitated-ptolemy-e377af.netlify.app/)
 
 
 </details>  
