@@ -27,8 +27,9 @@ HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backen
 | ... | ... |
   --->
   
+  
+    |---||---|
 | Project | Tags |
-  |---||---|
 | Luxura — Website | https://gryffindor-team.github.io/Luxura/ |
 |Cube store — Web App | https://cube-store-401.netlify.app/ |
 | MOVIEHOLIC -Web App | https://agitated-ptolemy-e377af.netlify.app/ |
