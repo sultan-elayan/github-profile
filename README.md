@@ -8,7 +8,13 @@
  <hr>
 </p>
 
-I'm sultan elayan and i'm student at ASAC These days I am completing my education in a comprehensive course in the field of software development, as this course qualified me to be full stack developer , I am fluent in writing in three programming languages, JAVASCRIPT and HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backend and React for the Frontend I am still developing my skills in this field, taking advantage of my previous experience as a engineer , where I was programming the Arduino microcontroller, which depends on the C++ programming language.
+I'm sultan elayan and i'm full stack developer in JAVASCRIPT and i'm good on these Programming Languages
+HTML
+CSS
+JAVASCRIPT
+Node.js
+React /JS
+HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backend and React for the Frontend I am still developing my skills in this field
 <hr>
 <details>
     
@@ -22,7 +28,9 @@ I'm sultan elayan and i'm student at ASAC These days I am completing my educatio
   --->
   
 | Project | Tags |
-| --- | --- |
+| Luxura — Website | https://gryffindor-team.github.io/Luxura/ |
+|Cube store — Web App | https://cube-store-401.netlify.app/ |
+| MOVIEHOLIC -Web App | https://agitated-ptolemy-e377af.netlify.app/ |
 
 
 </details>  
