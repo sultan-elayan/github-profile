@@ -27,7 +27,7 @@ HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backen
 | ... | ... |
   --->
   
- Project | Tags 
+
    
   
   No. | Project | Tags
@@ -41,14 +41,14 @@ HTML & CSS ,and now i'm able to make web application thru Node.JS for the Backen
 
 ----
 
-#### Recent Posts
+<!-- #### Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - []()
 - []()
 - []()
 - []()
 <!-- BLOG-POST-LIST:END -->
-
+ -->
 
 
 <!--
